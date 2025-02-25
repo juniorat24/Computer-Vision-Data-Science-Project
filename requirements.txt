@@ -1,11 +1,11 @@
-fastapi
+#fastapi
 
 
-uvicorn
+#uvicorn
 
 
-opencv-python
+#opencv-python
 
 
-numpy
+#numpy
 
