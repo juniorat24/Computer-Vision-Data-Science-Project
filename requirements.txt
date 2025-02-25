@@ -1,11 +1,5 @@
-fastapi*
-
-
-uvicorn
-
-
-opencv-python
-
-
-numpy
+-fastapi
+-uvicorn
+-opencv-python
+-numpy
 
